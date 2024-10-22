@@ -8,7 +8,7 @@ int x;
 string nombre;
 int cedula;
 string correo;
-ofstream output("./practica1/Data/data.txt");
+ofstream output("./Data/data.txt");
 if(!output.is_open()){
     cout<<"el documento no se pudo crear"<<endl;
     return 0;
@@ -22,7 +22,7 @@ cout<<"ingrese su cedula"<<endl;
 cin>>cedula;
 cout<<"ingrese su correo"<<endl;
 cin>>correo;
-output<<nombre<<" "<<correo<<" "<<cedula<<endl;
+output<<nombre<<" "<<cedula<<" "<<correo<<endl;
 x--;
 }
 }
