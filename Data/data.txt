@@ -1,3 +1,2 @@
-Juan 31326600 jdgaral27@gmail.com
-Diego 31552410 rojas.diego3011@gmail.com
-Samer 31887714 samer@gmail.com
+juan 31552410 jdgaral27@gmail.com
+diego 31326600 diego@gmail.com
