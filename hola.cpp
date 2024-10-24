@@ -22,7 +22,7 @@ cout<<"ingrese su cedula"<<endl;
 cin>>cedula;
 cout<<"ingrese su correo"<<endl;
 cin>>correo;
-output<<nombre<<" "<<cedula<<" "<<correo<<endl;
+output<<nombre<<" "<<cedula<<" "<<correo<<endl; //impresion de datos corregida
 x--;
 }
 }
